@@ -4,10 +4,10 @@ I'm a rising senior who is passionate about mathematics, and physics.
 
 ## About Me
 
-- 📚 Studying mathematics and competitive programming
-- ✍️ Writing LaTeX solutions to olympiad problems
-- 💻 Interested in Probability theory, combinatorics, real analysis, and much more
-- 🔍 I like testing and modeling different mathematical models 
+- 📚 Studying mathematics and competitive programming.
+- ✍️ Writing LaTeX solutions to olympiad problems.
+- 💻 Interested in Probability theory, combinatorics, real analysis, and branches of these topics. 
+- 🔍 I like testing and modeling different mathematical models.
 
 
 ## Current Projects
