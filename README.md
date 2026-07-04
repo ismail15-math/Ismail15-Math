@@ -6,8 +6,9 @@ I'm a rising senior who is passionate about mathematics, and physics.
 
 - 📚 Studying mathematics and competitive programming
 - ✍️ Writing LaTeX solutions to olympiad problems
-- 💻 Interested in algorithms, AI, and software engineering
-- 🌱 Currently learning advanced problem solving
+- 💻 Interested in Probability theory, combinatorics, real analysis, and much more
+- 🔍 I like testing and modeling different mathematical models 
+
 
 ## Current Projects
 
@@ -23,8 +24,10 @@ Programming langauges I am familiar with :
 
 - C++ ( learning )
 - Python
-- LaTeX 
-
+- LaTeX
+- Micrsoft excel, word, presentation
+- Canva
+  
 
 ## Goals
 
