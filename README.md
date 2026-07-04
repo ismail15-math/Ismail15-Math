@@ -31,7 +31,3 @@ Programming langauges I am familiar with :
 - Everyday advance my knowledge and problem solving skills in amthematics
 - Aspire to publish in the Annals of Mathematics
 - Work as a quantitative Researcher
-
-## Connect
-
-- GitHub: github.com/yourusername
